@@ -1,1 +1,5 @@
-### tests-shopping-is-fun-bdd-cucumber: Cucumber BDD Test Project
+### Cucumber BDD Test Project: Selenium WebDriver
+- Cucumber Libraries
+- BDD Approach
+- Selenium Page Object Design Pattern
+- Java Object Oriented
